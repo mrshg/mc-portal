@@ -1,0 +1,26 @@
+{
+  "name": "mc-portal",
+  "version": "1.0.0",
+  "description": "Movimento conservador > Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrshg/mc-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrshg/mc-portal/issues"
+  },
+  "homepage": "https://github.com/mrshg/mc-portal#readme",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
