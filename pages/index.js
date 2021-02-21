@@ -1,10 +1,16 @@
 import React, { useEffect, useState } from "react";
+import Link from "next/link";
 
 function Home() {
     return (
         <div>
+        <div>
             <div>Home 3</div>
             <Contador/>
+        </div>
+        <Link href="/sobre">
+            <a>Sobre</a>
+        </Link>
         </div>
     )
 }
