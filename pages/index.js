@@ -1,9 +1,9 @@
-import {useState} from 'react'
+import {useStatec} from 'react'
 
 function Home() {
     return (
         <div>
-            <div>Home 2</div>
+            <div>Home 3</div>
             <Contador/>
         </div>
     )
